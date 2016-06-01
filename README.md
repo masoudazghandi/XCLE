@@ -1,3 +1,3 @@
 # XCLE
 
-this is development version
+this is master readme version
